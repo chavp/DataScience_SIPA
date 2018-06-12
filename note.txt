@@ -1,3 +1,7 @@
 Data science process
 https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
 
+
+https://en.wikipedia.org/wiki/Accuracy_and_precision
+
+https://en.wikipedia.org/wiki/F1_score

@@ -5,3 +5,10 @@ https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-proces
 https://en.wikipedia.org/wiki/Accuracy_and_precision
 
 https://en.wikipedia.org/wiki/F1_score
+
+Time series analysis
+
+https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm
+http://www.statsoft.com/Textbook/Time-Series-Analysis
+
+Titanic solution: https://www.kaggle.com/startupsci/titanic-data-science-solutions
